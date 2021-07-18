@@ -1,5 +1,11 @@
+@font-face {
+    font-family: Comfortaa;
+    src: url(../fonts/Comfortaa.ttf);
+}
+
 * {
     margin: 0;
+    font-family: Comfortaa;
 }
 
 body {
